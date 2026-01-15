@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+truststore
+google-generativeai
+sentence-transformers
+pymupdf
+langchain
+faiss-cpu
+pandas
+chromadb
+PyPDF2
+scikit-learn
+langchain-community
+langchain-google-genai
